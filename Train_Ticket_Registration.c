@@ -1,4 +1,4 @@
-#include"head.h"
+#include"Train_Ticket_Registration_hider.h"
 int main(){
     //veariables
     //user input ver
